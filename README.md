@@ -1,12 +1,17 @@
 # Worth Learning
 
-A skill that turns content into judgment instead of plain summaries.
+**Not a summarizer. A judgment layer for content.**
 
-Use it on articles, threads, tutorials, opinion pieces, or marketing-heavy posts when you want to know:
-- what the content is really saying
-- what is actually valuable
-- what is weak, biased, or overhyped
-- whether it is worth more of your time
+Worth Learning is a skill for turning articles, threads, tutorials, opinion pieces, and hype-heavy content into judgment instead of plain summaries.
+
+Use it when the real question is not just:
+- what does this say?
+
+But:
+- should I trust this?
+- should I learn from this?
+- should I spend more time on this?
+- is there any real signal here?
 
 ## What it does
 
@@ -25,16 +30,13 @@ Instead of paraphrasing content, Worth Learning helps:
 - marketing-heavy content
 - forwarded or pasted text
 
-## Not just a summarizer
+## Why it exists
 
-Most content-analysis tools summarize.  
-Worth Learning is designed to judge.
+Most content-analysis tools summarize.
 
-It is especially useful when the real question is not “What does this say?” but:
-- “Should I trust this?”
-- “Should I learn from this?”
-- “Should I spend more time on this?”
-- “Is there any real signal here?”
+Worth Learning is built for a different job: helping decide whether a piece of content deserves more attention.
+
+That makes it useful when you want judgment, not just compression.
 
 ## Files
 
