@@ -38,7 +38,15 @@ Worth Learning is built for a different job: helping decide whether a piece of c
 
 That makes it useful when you want judgment, not just compression.
 
+## How to use
+
+1. Copy `SKILL.md` into your Claude Code project as a custom skill
+2. Pass any content directly — a link, pasted text, screenshot, or thread
+3. Ask your question: "Is this worth learning?", "Is this credible?", "Break this down for me"
+
+No setup beyond dropping the file in. Works with any content type.
+
 ## Files
 
 - `SKILL.md` — the core skill definition
-- `references/examples.md` — lightweight usage examples
+- `references/examples.md` — usage examples with full input/output pairs

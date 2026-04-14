@@ -9,6 +9,24 @@ These examples show the kinds of requests this skill should handle and what good
 ### User
 Analyze this tutorial for me. Is it actually worth learning, or is it just a clever demo?
 
+> "I built a RAG pipeline in 30 minutes using LangChain. Here's the exact code. You paste in any PDF, it chunks it, embeds it, and lets you query it with GPT-4. Works perfectly every time."
+
+### Output
+
+**Bottom line:** Useful starting point, but the claim "works perfectly every time" signals this is a demo, not a production method.
+
+**What it says:** A quick LangChain RAG setup — PDF ingestion, chunking, embedding, and querying. The author walks through the code step by step.
+
+**What is actually valuable:** The chunking and embedding pipeline is a solid reference pattern. Worth understanding even if you swap out LangChain later.
+
+**What to be careful about:** "Works perfectly" is a red flag. Real RAG failures happen at retrieval quality, not setup. Chunking strategy, embedding choice, and query formulation all affect output — none of that is covered here.
+
+**Is it worth further attention?** Worth understanding, not urgent.
+
+**Suggested next step:** Use it as a baseline reference. Before applying it, test retrieval quality on a non-trivial document where the answer isn't obvious.
+
+---
+
 ### Good behavior
 - identify the real workflow being taught
 - extract the most reusable idea
